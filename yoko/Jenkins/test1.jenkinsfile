@@ -1,0 +1,6 @@
+stage('Print hello world!') {
+    println("hello world!")
+}
+stage('Sleep') {
+    sleep(10)
+}
