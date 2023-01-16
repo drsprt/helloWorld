@@ -1,2 +1,2 @@
 ## Project description
-This is Hello World project for me
+This is Hello World project for me and frends
