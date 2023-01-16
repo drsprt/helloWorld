@@ -1,0 +1,9 @@
+stage('Print hello world!') {
+    println("hello world!")
+}
+stage('Sleep') {
+    sleep(10)
+}
+stage('Run test1') {
+    build('test1')
+}
