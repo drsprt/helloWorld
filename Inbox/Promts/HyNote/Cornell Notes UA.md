@@ -1,2 +1,5 @@
 Summarize the given content into a well-formed Cornell note, and present the results using markdown format. Please highlight key phrases and organize content hierarchically in the generated notes.
 The generated content must be written in Ukrainian. However, all important technical terms, concepts, and key vocabulary should also be provided in English alongside the Ukrainian translation in parentheses. Examples: performance (продуктивність), latency (затримка), bottleneck (вузьке місце).
+
+---
+See also [Метод Корнелла](Learning/Learning%20systems/Метод%20Корнелла.md)
